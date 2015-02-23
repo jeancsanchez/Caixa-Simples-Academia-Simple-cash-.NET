@@ -1,0 +1,9 @@
+c:\users\jcnot\documents\visual studio 2013\Projects\Caixa Jean\Caixa Jean\bin\Debug\Caixa Jean.exe.config
+c:\users\jcnot\documents\visual studio 2013\Projects\Caixa Jean\Caixa Jean\bin\Debug\Caixa Jean.exe
+c:\users\jcnot\documents\visual studio 2013\Projects\Caixa Jean\Caixa Jean\bin\Debug\Caixa Jean.pdb
+c:\users\jcnot\documents\visual studio 2013\Projects\Caixa Jean\Caixa Jean\obj\Debug\Caixa Jean.csprojResolveAssemblyReference.cache
+c:\users\jcnot\documents\visual studio 2013\Projects\Caixa Jean\Caixa Jean\obj\Debug\Caixa_Jean.Form1.resources
+c:\users\jcnot\documents\visual studio 2013\Projects\Caixa Jean\Caixa Jean\obj\Debug\Caixa_Jean.Properties.Resources.resources
+c:\users\jcnot\documents\visual studio 2013\Projects\Caixa Jean\Caixa Jean\obj\Debug\Caixa Jean.csproj.GenerateResource.Cache
+c:\users\jcnot\documents\visual studio 2013\Projects\Caixa Jean\Caixa Jean\obj\Debug\Caixa Jean.exe
+c:\users\jcnot\documents\visual studio 2013\Projects\Caixa Jean\Caixa Jean\obj\Debug\Caixa Jean.pdb
